@@ -3,4 +3,5 @@ Este repositório é voltado para armazenar os exercícios realizados por mim so
 
 
 
-![HospitalFuncionalidade drawio (5)](https://github.com/GretzelKattia/Hospital_BancoDeDados/assets/146984390/6d14f90f-6866-458d-b17b-536d5c02da38)
+![HospitalFuncionalidade drawio-_5_](https://github.com/GretzelKattia/Hospital_BancoDeDados/assets/146984390/1bdf78e1-afa4-4379-bd02-25e5b9b22f5e)
+
