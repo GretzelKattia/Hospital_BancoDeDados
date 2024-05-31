@@ -4,5 +4,5 @@
 
 ![HospitalFuncionalidade](https://github.com/GretzelKattia/Hospital_BancoDeDados/assets/146984390/6f87d47c-ab8f-493c-a5fd-f1a7ed8cf429)
 
-## Os Segredos do Hospital
+## Os Segredos do Hospital (Parte 2)
 ![OsSegredosHospital drawio](https://github.com/GretzelKattia/Hospital_BancoDeDados/assets/146984390/0a4d9b28-809a-4962-a876-629f00215024)
