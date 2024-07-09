@@ -1,4 +1,4 @@
-# O hospital: Diagrama Entidade Reelacionamento 
+# O hospital
 
 Este projeto é um sistema de gerenciamento de hospital implementado usando MySQL. Ele permite o gerenciamento eficiente de pacientes, médicos, enfermeiros, consultas, internações e muito mais.
 
@@ -91,6 +91,24 @@ INSERT INTO Receita (ID_Consulta, Medicamento, Quantidade, Instrucoes_Uso) VALUE
 ```
 
 ## A ordem de alterar - Alterando o banco de dados (Parte 4)
+
+
+### Adicionando uma nova coluna 🛠️
+
+Foi adicionado uma coluna chamada `em_atividade` na tabela de médicos. Essa coluna vai indicar se o médico ainda está atuando no hospital ou não. Aqui está um exemplo do que foi feito:
+
+```sql
+-- Adiciona a coluna "em_atividade" na tabela Medico
+ALTER TABLE Medico
+ADD COLUMN em_atividade
+VARCHAR(7) DEFAULT 'ATIVO';
+```
+
+E depois dessas alterações, a tabela **Medicos** fica dessa forma:
+
+![Captura de tela 2024-07-08 203924](https://github.com/GretzelKattia/Hospital_BancoDeDados/assets/146984390/27a12480-739e-46d4-b42a-024952fa5663)
+
+## As Relíquias dos Dados - Consultas (Parte 5)
 
 <div align="center">
   <pre><i>🚧 Espera um minutinho, essa parte ainda esta sendo feita🚧</i></pre>
